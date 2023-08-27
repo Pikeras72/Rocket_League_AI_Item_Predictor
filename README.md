@@ -1,2 +1,4 @@
 # Rocket_League_AI_Item_Predictor
-Clasificador de imágenes de objetos del videojuego 'Rocket League' para determinar a que grupo pertenecen. Primer trabajo con Inteligencia Artificial.
+Image classifier of objects from the video game 'Rocket League' to determine to which group they belong. 
+
+First job with Artificial Intelligence.
