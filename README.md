@@ -104,3 +104,7 @@ Future Improvements:
 ## Made by
 
 - [Pikeras72](https://github.com/Pikeras72)
+  
+## Special Thanks
+
+- [blitty-codes](https://github.com/blitty-codes)
