@@ -6,6 +6,7 @@
 
 ## Table of contents
 * [Description](#description)
+* [Visuals](#visuals)
 * [Versioning](#versioning)
 * [Technologies](#technologies)
 * [Bibliography](#bibliography)
@@ -24,9 +25,29 @@ This is my first project related to `AI`, with `CNN` and `image classification` 
 ---
  
 [Go up⬆️](#top)
+
+<a name="visuals"></a>
+### 2. Visuals
+
+For example, given this image:
+
+![](https://rocket-league.com/content/media/items/avatar/220px/42a71338bd1551122241.png "42a71338bd1551122241.webp")
+
+The model predicted this:
+
+```
+Saving 42a71338bd1551122241.webp to 42a71338bd1551122241.webp
+1/1 [==============================] - 7s 7s/step
+42a71338bd1551122241.webp
+This image is in: [wheels]
+```
+
+---
+ 
+[Go up⬆️](#top)
  
 <a name="versioning"></a>
-### 2. Versioning
+### 3. Versioning
  #### Update [26/08/2023]
 
 **Version 0.1.1** is out! This version includes the following:
@@ -72,7 +93,7 @@ Future Improvements:
 [Go up⬆️](#top)
  
 <a name="technologies"></a>
-### 3. Technologies
+### 4. Technologies
 
 `tensorflow` and `tensorflow.keras` for the model training and the model structure.
 
@@ -85,7 +106,7 @@ Future Improvements:
 [Go up⬆️](#top)
 
 <a name="bibliography"></a>
-### 4. Bibliography
+### 5. Bibliography
 
  [DeepLearning.AI TensorFlow Developer Professional Certificate - DeepLearning.AI on Coursera🔗](https://www.coursera.org/professional-certificates/tensorflow-in-practice?)
  
@@ -100,6 +121,10 @@ Future Improvements:
  ---
  
 [Go up⬆️](#top)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Made by
 
