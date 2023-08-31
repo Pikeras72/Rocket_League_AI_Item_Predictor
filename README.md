@@ -80,6 +80,7 @@ Few changes added!
  Weak points:
 
 - The model struggle to differenciate sometimes images between `boosts & trails`.
+- There is no `Table of Contents` in the notebook.
   
 Future Improvements:
 
