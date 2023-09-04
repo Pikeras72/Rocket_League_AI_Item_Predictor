@@ -1,6 +1,8 @@
 <a name="top"></a>
 # Rocket League - AI Item Predictor
-**Image classifier** of items from the video game 'Rocket League'. 
+**Image classifier** of items from the video game '*Rocket League*'. 
+
+\* The project is currently on hold until I have enough knowledge to proceed with the **multi-labeling classification** :) \*
 
 *First job with Artificial Intelligence.*
 
